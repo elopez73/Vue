@@ -1,6 +1,7 @@
-# first-vueu
+# Vue-Site
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple static webpage made with vue to show case my general knowledge in using context and animations
+along with stlying and navigation with Vue.
 
 ## Recommended IDE Setup
 
